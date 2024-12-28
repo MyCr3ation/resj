@@ -1,0 +1,38 @@
+# dependencies
+/backend/node_modules
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/backend/build
+
+# uploads
+/backend/uploads
+
+# misc
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+# environment variables
+/.env
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+/backend/.env
+/backend/.env.local
+/backend/.env.development.local
+/backend/.env.test.local
+/backend/.env.production.local
+
+# build output
+/build
+
+# OS Files
+Thumbs.db
